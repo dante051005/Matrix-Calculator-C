@@ -12,7 +12,7 @@ Develop a computational tool capable of performing common vector and matrix oper
 
 ---
 
-## 🛠️ Features
+## 🛡 Features
 
 ### Vector Operations
 
@@ -32,7 +32,7 @@ Develop a computational tool capable of performing common vector and matrix oper
 
 ---
 
-## Technical Implementation
+## 🛠️ Technical Implementation
 
 * Developed using C
 * Console-based interaction
@@ -44,7 +44,7 @@ The program includes dimensional and mathematical validation checks to ensure op
 
 ---
 
-## Engineering and Programming Concepts
+## ⚙️ Engineering and Programming Concepts
 
 This project reinforced:
 
