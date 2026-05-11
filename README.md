@@ -55,17 +55,6 @@ This project reinforced:
 
 ---
 
-## Current Status
-
-Future improvements may include:
-
-* Enhanced user interface
-* File-based input support
-* Additional numerical methods
-* Performance optimization
-
----
-
 ## Engineering Context
 
 This repository is part of my mechanical engineering technical portfolio and reflects the application of computational tools to mathematical and engineering problem-solving.
