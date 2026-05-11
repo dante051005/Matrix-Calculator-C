@@ -6,13 +6,13 @@ The project focuses on implementing core mathematical operations through structu
 
 ---
 
-## Objective
+## 📌 Objective
 
 Develop a computational tool capable of performing common vector and matrix operations while reinforcing numerical logic, mathematical validation, and modular programming concepts in C.
 
 ---
 
-## Features
+## 🛠️ Features
 
 ### Vector Operations
 
